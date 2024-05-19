@@ -2,6 +2,13 @@
 
 This README provides instructions on how to run the code for the Automated Essay Scoring project and outlines each team member's contributions.
 
+
+### Additional Resources
+
+#### Trained Models: Available on GitHub for direct use: https://drive.google.com/drive/u/0/folders/1C5yeA9Q3gu6IDUVEuR8MCbgW5e6EQMO4
+
+#### Dataset: Available in the folder and also on Kaggle: https://www.kaggle.com/c/asap-aes
+
 ## Setup and Running the Code
 
 ### Prerequisites
@@ -22,12 +29,6 @@ Contains the Python files for implementing the models. The code retrieves the da
 Running the Code
 
 Once dependencies are installed, you can run the Python files within the Python_files folder.
-
-### Additional Resources
-
-#### Trained Models: Available on GitHub for direct use: https://drive.google.com/drive/u/0/folders/1C5yeA9Q3gu6IDUVEuR8MCbgW5e6EQMO4
-
-#### Dataset: Available in the folder and also on Kaggle: https://www.kaggle.com/c/asap-aes
 
 ### Contributors and Contributions
 
