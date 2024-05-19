@@ -1,0 +1,17 @@
+pandas
+seaborn
+Matplotlib
+scikit-learn
+textblob
+nltk
+transformers
+tensorflow>=2.0.0
+keras
+keras-tuner
+tf-keras
+gensim
+torch
+numpy
+spacy
+language_tool_python
+scipy==1.12
