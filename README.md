@@ -5,7 +5,7 @@ This README provides instructions on how to run the code for the Automated Essay
 
 ### Additional Resources
 
-#### Trained Models: Available on GitHub for direct use: https://drive.google.com/drive/u/0/folders/1C5yeA9Q3gu6IDUVEuR8MCbgW5e6EQMO4
+#### Trained Models: Available on Google Drive for direct use: https://drive.google.com/drive/u/0/folders/1C5yeA9Q3gu6IDUVEuR8MCbgW5e6EQMO4
 
 #### Dataset: Available in the folder and also on Kaggle: https://www.kaggle.com/c/asap-aes
 
