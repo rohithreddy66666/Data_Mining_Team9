@@ -11,9 +11,9 @@ Before running the Python files, ensure you have all the required dependencies i
 ```bash
 pip install -r requirements.txt
 
-### Note: If there is any error with the installation of the gensim library, please install the Visual Studio Build Tools for C++.
+Note :If there is any error with the installation of the gensim library, please install the Visual Studio Build Tools for C++.
 
-### Project Structure
+Project Structure
 
 Main Folder: Data_Mining_team9
 Contains the dataset and anotherfolder named Python_files.
@@ -26,28 +26,38 @@ Once dependencies are installed, you can run the Python files within the Python_
 
 Additional Resources
 
-Trained Models: Available on GitHub for direct use: 
-Dataset: Available in the folder and also on Kaggle: ASAP AES Dataset on Kaggle
-Contributors and Contributions
+**Trained Models: Available on GitHub for direct use: https://drive.google.com/drive/u/0/folders/1C5yeA9Q3gu6IDUVEuR8MCbgW5e6EQMO4
+**
+Dataset: Available in the folder and also on Kaggle: https://www.kaggle.com/c/asap-aes
+
+### Contributors and Contributions
+
 Swati
+
 Oversaw project schedules, resource allocation, and strategic direction.
 Conducted a comprehensive review of literature.
 Developed and implemented LSTM for automated essay scoring.
 Selected and implemented appropriate evaluation metrics.
 Contributed to documentation, providing insights, model developments, predictions, and future scope.
+
 Rohith
+
 Oversaw project schedules, resource allocation, and strategic direction.
 Conducted a comprehensive review of literature.
 Handled data cleaning tasks and performed initial exploratory analyses.
 Developed and implemented Bi-LSTM for automated essay scoring.
 Selected and implemented appropriate evaluation metrics.
+
 Shruti
+
 Oversaw project schedules, resource allocation, and strategic direction.
 Conducted a comprehensive review of literature.
 Handled data cleaning tasks and performed initial exploratory analyses.
 Developed and implemented BERT for automated essay scoring.
 Contributed to documentation, providing insights, model developments, predictions, and future scope.
+
 Sravya
+
 Oversaw project schedules, resource allocation, and strategic direction.
 Conducted a comprehensive review of literature.
 Developed and implemented Random Forest for automated essay scoring.
